@@ -2,7 +2,8 @@
   "name": "experiment-eslint",
   "version": "1.0.0",
   "scripts": {
-    "test": "node no-false-initial-state.test.js"
+    "test": "node no-false-initial-state.test.js",
+    "lint": "eslint ."
   },
   "keywords": [],
   "author": "",
