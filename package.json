@@ -1,0 +1,13 @@
+{
+  "name": "experiment-eslint",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node no-false-initial-state.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^9.3.0"
+  }
+}
